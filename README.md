@@ -4,3 +4,11 @@
 ## [![Oleg's github stats](https://github-readme-stats.vercel.app/api?username=ohIeg&show_icons=true&theme=dracula)](https://https://github.com/ohIeg/github-readme-stats)
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohIeg&layout=compact&show_icons=true&theme=dracula)](https://https://github.com/ohIeg/github-readme-stats)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
